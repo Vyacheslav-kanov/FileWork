@@ -1,0 +1,10 @@
+tmp/
+
+#Idea
+.idea/
+
+#Gradle
+.gradle/
+
+# Maven:
+target/
